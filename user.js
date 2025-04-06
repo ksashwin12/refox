@@ -287,9 +287,6 @@ user_pref("browser.taskbar.lists.frequent.enabled", false);
 user_pref("browser.taskbar.lists.recent.enabled", false);
 user_pref("browser.taskbar.lists.tasks.enabled", false);
 
-//URL Typos
-user_pref("keyword.enabled", false);
-
 //Other Telemetry
 user_pref("network.trr.confirmation_telemetry_enabled", false);
 user_pref("security.app_menu.recordEventTelemetry", false);
