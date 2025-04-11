@@ -298,6 +298,3 @@ user_pref("messaging-system.askForFeedback", false);
 user_pref("signon.recipes.remoteRecipes.enabled", false);
 user_pref("security.protectionspopup.recordEventTelemetry", false);
 user_pref("security.certerrors.recordEventTelemetry", false);
-
-//Theme
-user_pref("toolkit.legacyUserProfileCustomizations.stylesheets", true);
